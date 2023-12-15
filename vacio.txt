@@ -1,4 +1,4 @@
 primer comentario
 segundo comentario
-Rehacer el tercer cambio
-rehacer el cuarto cambio
+
+el cambio de checkout
