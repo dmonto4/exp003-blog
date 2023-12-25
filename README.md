@@ -5,3 +5,4 @@ curso de git y guthub de platzi
 ## Partes del curos
 * stash
 * rebase
+* git ignore
